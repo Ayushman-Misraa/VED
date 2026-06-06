@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://www.ved.ngo/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ved.ngo/about</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ved.ngo/impact</loc>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ved.ngo/past-projects</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ved.ngo/future-projects</loc>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ved.ngo/volunteer</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ved.ngo/donate</loc>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ved.ngo/contact</loc>
+    <priority>0.60</priority>
+  </url>
+
+  <url>
+    <loc>https://www.ved.ngo/legal</loc>
+    <priority>0.50</priority>
+  </url>
+
+</urlset>
